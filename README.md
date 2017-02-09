@@ -1,2 +1,2 @@
-# WB_server
-WhiteBoard is a teamware for teamwork and project management
+# whiteboard_backend
+A team tool for project management
